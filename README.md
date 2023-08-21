@@ -1,6 +1,14 @@
 # ApiGateway-example
 Example of API Gateway based on .NET Core, Ocelot, Consul
 
+- https://www.linkedin.com/pulse/api-gateway-usingnet-core-ocelot-andconsul-paulius-juozelskis/
+
+
+## Architecture  Sample
+
+![  Api Gateway](https://github.com/sanogotech/ApiGateway-example/blob/master/images/apigatewaysample.jpg)
+
+
 
 ## API Gateway between a client and our services/functions
 
