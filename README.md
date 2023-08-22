@@ -3,6 +3,11 @@ Example of API Gateway based on .NET Core, Ocelot, Consul
 
 - https://www.linkedin.com/pulse/api-gateway-usingnet-core-ocelot-andconsul-paulius-juozelskis/
 
+
+## API  Gateway  Process
+
+![API  Gateway  Process](https://github.com/sanogotech/ApiGateway-example/blob/master/images/ApiGatewayProcess.jpg)
+
 ##  Monolithic vs Microservices
 
 ![ Monolithic vs Microservices  ](https://github.com/sanogotech/ApiGateway-example/blob/master/images/monolithicvsmicroservice.jpg)
